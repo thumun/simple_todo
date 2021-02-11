@@ -78,6 +78,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    //test
     private File getDataFile(){
         return new File(getFilesDir(), "data.txt");
     }
