@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Had some difficulty with getting a method of an imported library to work. I eventually realized that I had imported the wrong library.
-Other than that, it was a simple project. The video tutorials were very helpful. 
+Other than that, there were no other major problems. The video tutorials were very helpful. 
 
 ## License
 
